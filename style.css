@@ -1,0 +1,22 @@
+* {
+  font-size: 10px;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+.principal-formulario {
+  border: 1px black solid;
+  border-radius: 3%;
+  margin: 40px;
+  padding: 10px;
+}
+
+.info-pessoais {
+  border: 1px red solid;
+}
+
+.form-check {
+  display: flex;
+  flex-direction: column;
+}
